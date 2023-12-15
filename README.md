@@ -1,8 +1,8 @@
-# synopsys2021
+# Silicon Valley Synopsys Science Fair 2021
 Project Title: A Multistep, ML-Based Predictor of Parkinson's Disease Progression Using
 GWAS, Patient Symptoms and Gene Expression Data
 
-Predicting Parkinson's Disease (PD) susceptibility involves three different approaches: using
+Abstract: Predicting Parkinson's Disease (PD) susceptibility involves three different approaches: using
 known genetic variants and patient genotypes, RNA sequencing, and measuring disease
 symptoms. The first approach works for predicting familial cases but not idiopathic, which
 requires all three approaches for every patient, incurring unnecessary cost and patient
